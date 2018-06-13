@@ -1,0 +1,8 @@
+1. Créer l'entité "machine" sur le site :
+1.1 créer une liste de machines FAIT
+1.2 créer un ajout de machine (sans oublier le lien vers une intervention) (FAIT: détail de l'intervention en fonction de la machine fait sur la liste des machines)
+1.3 créer un détail de machine FAIT
+
+2. Ajouter la liste des interventions pour un client (reste que l'affichage des inter dans le détail d'un client)(FAIT [je crois])
+
+3. Ajouter la liste des machines pour une intervention (base toi sur celui du dessus)(FAIT[je crois])

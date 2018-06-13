@@ -1,0 +1,17 @@
+--- Lancement de PhpMyAdmin
+Au lancement de PhpMyAdmin, il vous sera demandé un nom utilisateur et un mot de passe.
+Après installation de Wampserver 3, le nom utilisateur par défaut est "root" (Sans les guillemets) et il n'y a pas de mot de passe, ce qui veut dire que vous devez laisser la case Mot de passe du formulaire d'accès vide.
+Vous aurez un message d'avertissement :
+Vous êtes connecté en tant que «root » sans mot de passe, ce qui correspond à la valeur par défaut de MySQL. Votre serveur MySQL est donc ouvert aux intrusions, et vous devriez corriger ce problème de sécurité en assignant un mot de passe à l'utilisateur « root ».
+Ce n'est pas un problème tant que l'accès à Phpmyadmin reste en local.
+Néanmoins, certaines applications WEB ou CMS demandent que l'utilisateur MySQL ait un mot de passe. Auquel cas, il vous faudra créer un utilisateur avec mot de passe en passant par l'onglet Comptes Utilisateurs de PhpMyAdmin.
+
+--- Utilisation des menus et sous-menus de Wampmanager
+Ne pas utiliser les touches du clavier pour naviguer dans les menus et sous-menus de l'icône Wampmanager.
+
+--- Pour toute question relative à Wampserver 3
+Veuillez utiliser le forum spécifique et francophone :
+http://forum.wampserver.com/list.php?1
+N'utilisez pas une discussion déjà existante, mais créez votre propre discussion :
+Nouvelle discussion
+après avoir lu LIRE et RÉPONDRE AVANT DE POSER UNE QUESTION de ce même forum
